@@ -1,0 +1,6 @@
+{
+  "name": "MargTax — Delhi to Mumbai Route Tax & Toll Estimator",
+  "description": "Estimate and break down NHAI highway tolls, state border taxes, Delhi ECC, fuel excise & VAT, and GST for travelling from Delhi to Mumbai by car, bike, or truck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
